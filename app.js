@@ -1,5 +1,6 @@
 let amigos = [];
 
+
 function adicionarAmigo(){
     let nome = document.querySelector('input').value;
 
@@ -10,14 +11,17 @@ function adicionarAmigo(){
         console.log(amigos);
         nome = document.querySelector('input');
         nome.value = "";
-    }
+        listaDeAmigos();
+    } 
 }
 
-function listaDeAmigos(tag, nomes) {
+
+
+function listaDeAmigos() {
     let lista = document.getElementById('listaAmigos');
     lista.innerHTML = "";
-
-    for (let i = 0; i >= amigos.length; i++){
-        lista.innerHTML = amigos;        
-    }
+    for (let i = 0; i < amigos.length; i++){
+         lista.innerHTML += amigos[i] + "<br>";           
 }
+}
+
