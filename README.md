@@ -19,13 +19,17 @@ Este projeto é um desafio de lógica de programação focado em JavaScript, ond
 3. Clique no botão "Sortear Amigo" para selecionar um nome aleatório da lista.
 
 ## Imagens
-
+1.Adicionar Nomes
 ![Adicionar Nomes](img/AdicioonarAmigos.png)
+
+2.Listar Nomes:
 ![Listar Nomes](img/ListarNomes.png)
+
+3.Amigo Sorteado
 ![Amigo Sorteado](img/AmigoSorteado.png)
 
 ## Challenge de Estudo
 Este projeto foi desenvolvido como parte de um desafio de estudo em lógica de programação com foco em JavaScript. O objetivo é aprimorar as habilidades de programação e entender melhor como manipular arrays, funções, e eventos em JavaScript.
 
 ## Autor
-Feito por [Seu Nome] - Estudante de Programação.
+Feito por Nayara Ribeiro - Estudante de Programação.
