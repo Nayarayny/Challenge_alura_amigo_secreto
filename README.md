@@ -20,9 +20,9 @@ Este projeto é um desafio de lógica de programação focado em JavaScript, ond
 
 ## Imagens
 
-![Adicionar Nomes](caminho/para/imagem1.png)
-![Listar Nomes](caminho/para/imagem2.png)
-![Sortear Amigo](caminho/para/imagem3.png)
+![Adicionar Nomes](img/Adicioonar Amigos.png)
+![Listar Nomes](img/Listar  Nomes.png)
+![Amigo Sorteado](img/Amigo Sorteado.png)
 
 ## Challenge de Estudo
 Este projeto foi desenvolvido como parte de um desafio de estudo em lógica de programação com foco em JavaScript. O objetivo é aprimorar as habilidades de programação e entender melhor como manipular arrays, funções, e eventos em JavaScript.
